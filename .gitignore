@@ -6,12 +6,10 @@ db_sqlite3
 *.egg
 *.egg-info
 dist
+Dist
 build
 Desktop.ini
 __pycache__
-djenv01
 migrations
 log
-!rango_project
-virtual_venv
-renrenche_data
+*.log
