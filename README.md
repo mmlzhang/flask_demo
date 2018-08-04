@@ -1,10 +1,12 @@
 >   auth: zhangminglu
 >
->   datetime: 2018-7-9 20:45
+>   datetime: 2018-03-25 20:45
 >
 >   Email: 1367000465@qq.com
 >
 >   Github: https://github.com/zhangMingLu
+>
+>   CSDN: https://blog.csdn.net/zhang_ming_lu
 
 
 
@@ -51,6 +53,6 @@
 
 添加日志记录模块
 
-添加七牛运存储照片
+添加[七牛云](utils/image_storage.py)存储照片 
 
-添加云通讯来接收短信
+添加[云通讯](utils/sms.py)来接收短信
