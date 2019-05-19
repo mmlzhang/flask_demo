@@ -1,11 +1,10 @@
 
 from flask import Flask
 
-from app.blueprint import app_register_blueprint
+from demo_code.app.blueprint import app_register_blueprint
 from .ext_init import ext_init
 from .settings import MAIN_CONFIG, STATIC_DIR, \
-    TEMPLATES_DIR, start_logging
-from utils.functions import RegexConverter
+    TEMPLATES_DIR
 
 
 def create_app():

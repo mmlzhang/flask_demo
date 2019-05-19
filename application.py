@@ -1,7 +1,7 @@
 
 from flask_script import Manager
 
-from main.create_app import create_app
+from demo_code.main import create_app
 
 
 app = create_app()
