@@ -5,7 +5,6 @@ build
 dist
 *.pyc
 *.iml
-adcreativeimpl.egg-info/*
 .pydevproject
 .coverage
 .tox
@@ -36,3 +35,4 @@ yarn-error.log*
 *.sln
 .sw
 static/
+*.egg-info
